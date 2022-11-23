@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @superloika
 
 ### I'm currently messing with
-- Laravel
-- VueJS
+- PHP (Laravel)
+- Javascript (VueJS, Vuetify)
