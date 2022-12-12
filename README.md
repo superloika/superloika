@@ -2,4 +2,4 @@
 
 ### I'm currently messing with
 - PHP (Laravel)
-- Javascript (VueJS, Vuetify)
+- Javascript (VueJS)
