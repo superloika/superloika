@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @superloika
 
 ### Currently messing with
-- PHP (Laravel)
-- Javascript (VueJS, Nuxt, Vuetify, Quasar)
+- Laravel
+- VueJS, Nuxt, Vuetify, Quasar
+- Flutter
