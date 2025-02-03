@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @superloika
+## 👋 Hello, I’m Kaloy (@superloika)
 
-### Currently messing with
+### and here's my daily dose of frustration
 - Laravel
 - Vue
 - Flutter
