@@ -1,6 +1,6 @@
-## 👋 Hello, I’m Kaloy (@superloika)
+## 👋 Hello, I’m Kaloy...
 
-### and here's my daily dose of frustration
+### ...and these are my daily dose of frustration
 - Laravel
 - Vue
 - Flutter
