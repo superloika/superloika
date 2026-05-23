@@ -1,3 +1,3 @@
-## 👋 Hello, I’m Kaloy...
+## 👋 Hello, I’m Kaloy!
 
-### Laravel | Vue | Flutter
+Laravel | Vue | Flutter
